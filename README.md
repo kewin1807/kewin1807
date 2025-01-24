@@ -1,3 +1,18 @@
+# 🚀 Fullstack Developer
+
+Skilled in crafting modern web applications and robust backend systems with **NestJS** and **NextJS**. A dedicated developer who thrives on building scalable and efficient software solutions.
+
+## 🌐 Tech Enthusiast  
+- Deeply curious about **Web3 technologies**, exploring blockchain innovations and their real-world applications.  
+- Actively following and experimenting with **cutting-edge AI products**, focusing on creating impactful and practical advancements.
+
+## 💡 Lifelong Learner  
+With a strong passion for discovery and innovation, I’m constantly pushing boundaries to deliver transformative tech solutions. Collaboration and growth are at the core of my journey.
+
+---
+
+
+
 ![counter](https://enmlebrrkhwcdjq.m.pipedream.net)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kewin1807&show_icons=true&theme=radical&count_private=true)
